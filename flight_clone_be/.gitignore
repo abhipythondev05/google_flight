@@ -1,0 +1,16 @@
+*.py[cod]
+*.so
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Migrations
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/__pycache__/
+*.pyc
+*.pyo
+__pycache__/
